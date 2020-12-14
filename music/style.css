@@ -1,7 +1,6 @@
 #background {
   z-index: -100;
-  position: fixed;
-  object-fit: cover;
+  position: absolute;
 }
 a:link, a:visited {
   text-decoration: none;

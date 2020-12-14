@@ -3,6 +3,10 @@
   position: fixed;
   object-fit: cover;
 }
+#logo {
+  z-index:auto;
+  position: fixed;
+}
 a:link, a:visited {
   text-decoration: none;
   color: SeaShell;
