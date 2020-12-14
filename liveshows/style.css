@@ -24,3 +24,8 @@ h2 {
   color: GoldenRod;
   text-align: center;
 }
+p {
+  font-family: monospace;
+  color: "Black";
+  text-align: center;
+}
