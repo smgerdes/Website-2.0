@@ -1,7 +1,14 @@
+body {
+  margin: 0;
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  background-size: cover;
+}
 #background {
   z-index: -100;
   position: fixed;
   object-fit: cover;
+  display: none;
 }
 a:link, a:visited {
   text-decoration: none;
@@ -23,4 +30,30 @@ h2 {
   font-family: "Courier New", monospace;
   color: GoldenRod;
   text-align: center;
+}
+#audio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#FastPaced {
+  max-width: 10%;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Commitment {
+  max-width: 10%;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#MovieScenes {
+  max-width: 10%;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
