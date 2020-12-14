@@ -32,6 +32,11 @@ h3 {
   text-align: center;
   font-size: 30px;
 }
+#audio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}  
 #FastPaced {
   max-width: 10%;
   height:auto;
