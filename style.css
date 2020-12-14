@@ -3,20 +3,24 @@
   position: fixed;
   object-fit: cover;
 }
-
-p {
+a:link, a:visited {
+  text-decoration: none;
+  color: SeaShell;
   font-family: monospace;
   font-size: 30px;
-  color: SeaShell;
+}
+a:hover {
+  color: GoldenRod;
 }
 h1 {
   font-family: fantasy;
   font-size: 100px;
+  font-weight: bold;
   color: SeaShell;
   text-align: center;
 }
 h2 {
   font-family: "Courier New", monospace;
-  color: Black;
+  color: GoldenRod;
   text-align: center;
 }
