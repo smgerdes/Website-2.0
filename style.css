@@ -4,11 +4,19 @@
   object-fit: cover;
 }
 
+p {
+  font-family: monospace;
+  font-size: 30px;
+  color: SeaShell;
+}
 h1 {
+  font-family: fantasy;
+  font-size: 100px;
   color: SeaShell;
   text-align: center;
 }
 h2 {
+  font-family: "Courier New", monospace;
   color: Black;
   text-align: center;
 }
