@@ -1,7 +1,8 @@
 #background {
-  z-index: -100;
-  position: fixed;
-  object-fit: cover;
+  background-image: url ('/pictures/liveshows.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
 }
 a:link, a:visited {
   text-decoration: none;
@@ -26,6 +27,6 @@ h2 {
 }
 h3 {
   font-family: monospace;
-  color: "Black";
+  color: "DarkRed";
   text-align: center;
 }

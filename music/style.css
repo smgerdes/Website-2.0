@@ -1,7 +1,8 @@
 #background {
   z-index: -100;
-  position: absolute;
-  object-fit: cover;
+  position: fixed;
+  max-width: 300%;
+  height:auto;
 }
 a:link, a:visited {
   text-decoration: none;
